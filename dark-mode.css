@@ -1,0 +1,10 @@
+ body.dark-mode {
+  background: #1e1e2f;
+  color: #f0f0f0;
+}
+body.dark-mode header { background: #111827; }
+body.dark-mode section { background: #2c2c3c; color: #e4e4e4; }
+body.dark-mode section h2 { border-bottom: 2px solid #60a5fa; color: #60a5fa; }
+body.dark-mode nav a { color: #93c5fd; }
+body.dark-mode footer { background: #111827; }
+
